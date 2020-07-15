@@ -1,0 +1,22 @@
+<?php
+var_dump($_POST);
+// Code here
+
+
+
+
+
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>About-us</title>
+</head>
+<body>
+    this is the about-us.php page;
+</body>
+</html>
